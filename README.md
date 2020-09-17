@@ -20,7 +20,7 @@ The prediction model is a Extreme Gradient Boosting Machine ensemble model.
 ## Files  
 _app.py_ - Python file containing script to deploy the Loan Profit Margin Predictor model on streamlit.io.   
 
-_project_5_presentation.pdf-jonlindenauer_ - Project 5 presentation for Metis Sep 17, 2020   
+_project5_presentation_jonlindenauer.mp4_ - Project 5 presentation video for Metis Sep 16, 2020   
 
 _project-05-jonlindenauer.ipynb_ - Jupyter Notebook with Python code for ETL and analysis  
 
